@@ -10,7 +10,7 @@ Copyright (c) 2025 Josh Janzen / zen-apps
 
 The upstream repository is licensed under the MIT License. The upstream license text is preserved at:
 
-`third_party_notices/ai-fitness_planner-LICENSE`
+`third_party_notices/ai-fitness-planner-LICENSE`
 
 Upstream source inspected for this adaptation:
 
