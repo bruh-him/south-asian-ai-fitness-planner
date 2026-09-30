@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
+
+# Large/source data intentionally downloaded locally
+raw_data/
+*.json
+*.pdf
+*.zip
+claude_project_pack/02_USDA_5000_COMPACT.csv
